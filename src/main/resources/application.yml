@@ -1,6 +1,6 @@
 spring:
   application:
-    name: gestion-archivos-ms
+    name: ms-gestion-archivos
   datasource:
     url: ${SPRING_DATASOURCE_URL}
     username: ${SPRING_DATASOURCE_USERNAME}
