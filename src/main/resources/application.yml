@@ -2,7 +2,7 @@ spring:
   application:
     name: gestion-archivos-ms
   datasource:
-    url: jdbc:mysql://docker.unicauca.edu.co:3307/computacion
+    url: jdbc:mysql://dockertest.unicauca.edu.co:3307/computacion
     username: computacion
     password: DB-C0mput4c10N
     driver-class-name: com.mysql.cj.jdbc.Driver
